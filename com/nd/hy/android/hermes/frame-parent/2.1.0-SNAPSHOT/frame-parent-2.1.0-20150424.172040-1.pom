@@ -96,6 +96,7 @@
                 <groupId>com.android.support</groupId>
                 <artifactId>support-v4</artifactId>
                 <version>${support.version}</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
